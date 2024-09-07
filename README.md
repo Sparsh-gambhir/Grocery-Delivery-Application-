@@ -42,4 +42,6 @@ This project is a comprehensive full-stack web application developed for online 
 ## Credits
 - Developed as part of the internship at **Next24tech Technology & Services**.
 
+## License
 
+This project is licensed under the MIT License - see the LICENSE file for details.
